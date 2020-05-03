@@ -1,1 +1,1 @@
-# sinepattern
+number pattern
